@@ -1,4 +1,4 @@
-# Sesi5_Gdrive
+# Sesi5_DigitalSkola_Gdrive
 Pembuatan Upload tugas menggunakan link gdrive
 
 1. [Sesi 2: Test Plan dan Test Case](https://drive.google.com/drive/folders/1eAkDPH1iA3256qd2ZZIG0XsInRzD0bZO?usp=drive_link)
